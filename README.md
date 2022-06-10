@@ -1,2 +1,2 @@
 # Website
-https://jellela.github.io/website/
+https://jellela.github.io
