@@ -1,0 +1,42 @@
+@import"bottombar.css" ;
+@import"footer.css" ;
+@import"link.css" ;
+
+body {
+	font-family: 'Optima';
+	font-style: normal ;
+	background: rgb(2,0,36);
+	background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(100,9,121,1) 100%, rgba(0,212,255,1) 100%);
+	color: #FFFFFF ;
+	display: flex;
+	min-height: 100vh;
+	font-size: 20px;
+	flex-direction: column;
+	/*
+	background-image: linear-gradient(red, yellow);
+	background-image: url(/pics/greece2.jpg)
+	*/
+}
+
+main {
+	min-width: 1500px ;
+	max-width: 1000px ;
+	margin: auto ;
+}
+
+hr {
+	background-color: #000000 ;
+}
+
+img {
+	width: auto;
+	max-height: 15%;
+	filter: grayscale(100%);
+	border-radius: 50% ;
+	padding: 20px ;
+}
+
+header h1 {
+	text-align: left ;
+    font-size: 100px;
+}

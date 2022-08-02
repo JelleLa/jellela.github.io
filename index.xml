@@ -1,23 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-	<title>My New Hugo Site</title>
-	<link>http://example.org/</link>
-	<description>Recent content on My New Hugo Site</description>
-	<generator>Hugo -- gohugo.io</generator>
-	<language>en-us</language>
+    <title>Hi there! on Jelle Langedijk</title>
+    <link>https://jellela.github.io/</link>
+    <description>Recent content in Hi there! on Jelle Langedijk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Jul 2022 21:05:58 +0200</lastBuildDate><atom:link href="https://jellela.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Profile</title>
+      <link>https://jellela.github.io/profile/profile/</link>
+      <pubDate>Sun, 17 Jul 2022 21:50:50 +0200</pubDate>
+      
+      <guid>https://jellela.github.io/profile/profile/</guid>
+      <description>This page contains my professional profile. This is merely intended to give a &amp;ldquo;quick&amp;rdquo; overview, my curriculum vitae is available here as .pdf. Home address and phone number are excluded for privacy reasons. Information seen below might be more up to date than the .pdf.
+Education Huygens Lyceum Eindhoven | Natuur en Techniek 2012-2018
+Completed the final exam Atheneum in the program Nature &amp;amp; Technology with favorable consequence. Graduated in the Dutch, English and French Language and Literature, Mathematics (B &amp;amp; D), Physics, Chemistry and Management and Organization (MO).</description>
+    </item>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-	
-	
-	<item>
-		<title>Testpage</title>
-		<link>http://example.org/testpage/</link>
-		<pubDate>Fri, 15 Jul 2022 11:12:24 +0200</pubDate>
-		
-		<guid>http://example.org/testpage/</guid>
-		<description>&lt;p&gt;This website contains some text; just as a test to check if things work out!&lt;/p&gt;
-</description>
-	</item>
-	
-	</channel>
+    <item>
+      <title>About</title>
+      <link>https://jellela.github.io/about/about/</link>
+      <pubDate>Sun, 17 Jul 2022 16:52:42 +0200</pubDate>
+      
+      <guid>https://jellela.github.io/about/about/</guid>
+      <description>This is the first ever website that I&amp;rsquo;ve written using Markdown, html and css. All these components are &amp;ldquo;combined&amp;rdquo; using the HUGO framework and hosted via Github Pages. Feel free to contact me via Email </description>
+    </item>
+    
+    <item>
+      <title>The website is up!</title>
+      <link>https://jellela.github.io/blog/blog1/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jellela.github.io/blog/blog1/</guid>
+      <description>This is the first blog post on the website, made just before the website was deployed for the first time via GitHub pages! The website is still a &amp;ldquo;work in progress&amp;rdquo;, but came at a point where it is ready enough to share with the world.
+The LinkedIn post related to the launch of the website can be found here.</description>
+    </item>
+    
+  </channel>
 </rss>

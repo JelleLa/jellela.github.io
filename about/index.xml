@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Jelle Langedijk</title>
+    <link>https://jellela.github.io/about/</link>
+    <description>Recent content in Abouts on Jelle Langedijk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jul 2022 16:52:42 +0200</lastBuildDate><atom:link href="https://jellela.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://jellela.github.io/about/about/</link>
+      <pubDate>Sun, 17 Jul 2022 16:52:42 +0200</pubDate>
+      
+      <guid>https://jellela.github.io/about/about/</guid>
+      <description>This is the first ever website that I&amp;rsquo;ve written using Markdown, html and css. All these components are &amp;ldquo;combined&amp;rdquo; using the HUGO framework and hosted via Github Pages. Feel free to contact me via Email </description>
+    </item>
+    
+  </channel>
+</rss>

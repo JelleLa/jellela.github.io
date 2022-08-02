@@ -1,0 +1,7 @@
+.bottombar {
+	background-color: #000000;
+	overflow: hidden;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}

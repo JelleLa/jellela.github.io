@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>(One) More Thing(s) on Jelle Langedijk</title>
+    <link>https://jellela.github.io/more/</link>
+    <description>Recent content in (One) More Thing(s) on Jelle Langedijk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jul 2022 20:49:54 +0200</lastBuildDate><atom:link href="https://jellela.github.io/more/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
