@@ -3,7 +3,7 @@
 @import"link.css" ;
 
 body {
-	font-family: 'Monospace';
+	font-family: 'Optima';
 	font-style: bold ;
     background: #c6a4c4 ;
 	color: #000000 ;
@@ -14,8 +14,8 @@ body {
 }
 
 main {
-    min-width: 1500px ;
-	max-width: 1000px ;
+    /*min-width: 1500px ;*/
+	max-width: 1500px ;
 	margin: auto ;
 }
 
